@@ -1,8 +1,5 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=mj9457&icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=mj9457&layout=compact&theme=dracula)
-
 ## 🙋‍♂️ Personal Info
 - Park Min Jun
 - Jung Won University (JWU)
@@ -10,27 +7,30 @@
 - mj9457@naver.com
 
 ## 🔨 Technology Stacks
-- Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Recoil-3474DE?style=flat&logo=recoil&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=react-query&logoColor=white"/></span>
+- Frontend : <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Recoil-007af4?style=flat&logo=recoil&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=react-hook-form&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E"/></span>
-- Backend : <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></span>
+- Style & UI : <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Emotion-DB7093?style=flat&logo=emotion&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white"/></span>
 - Mobile App : <span><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/></span>
 - Deployment : <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
+- Tools : <span><img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=babel&logoColor=black"/></span>
+<span><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white"/></span>
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"/></span><br/>
 - Communication : <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></span>
 
-## ✏️ Blog For Learning - <a href="https://https://velog.io/@mj9457">Here</a>
-## 📝 Portfolio Website - <a href="https://#"></a>
+## ✏️ Blog For Learning - <a href="https://https://velog.io/@mj9457" target="_blank">velog</a>
+## 📝 Portfolio Website - <a href="https://https://handsomely-radish-d5c.notion.site/15edb629c962807caf2ef24b207e5b2b?pvs=74" target="_blank">Portfolio</a>
