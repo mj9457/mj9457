@@ -33,4 +33,4 @@
 <span><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></span>
 
 ## ✏️ Blog For Learning - <a href="https://https://velog.io/@mj9457" target="_blank">velog</a>
-## 📝 Portfolio Website - <a href="https://https://handsomely-radish-d5c.notion.site/15edb629c962807caf2ef24b207e5b2b?pvs=74" target="_blank">Portfolio</a>
+## 📝 Portfolio Website - <a href="https://www.canva.com/design/DAGezbVC1Gk/Yzf7CxPvC5egF5xNdGoAdg/view?utm_content=DAGezbVC1Gk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d56334a8d" target="_blank">Portfolio</a>
